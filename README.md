@@ -13,13 +13,27 @@ Welcome to my GitHub profile! I'm an aspiring **VLSI and Embedded Systems Engine
 
 ---
 
+## 👩‍🔬 Experience
+
+### 🛠️ IoT Engineering Intern – Xairo Tech Pvt. Ltd. *(Nov 2024)*
+- Collaborated with a team of six to develop a **Smart Delivery Box** using **ESP32** and secure OTP-enabled access
+- Integrated **sensors**, **keypad**, and **cloud-based notifications** for real-time alerts
+- Contributed to **hardware-software interfacing** and **embedded programming**
+
+### 🤖 Robotics & Controls Virtual Intern – Johnson & Johnson (Forage) *(June 2025)*
+- Simulated optimization of a surgical robotic arm using **Python-based control analysis**
+- Identified and addressed performance issues; proposed design improvements with annotated visuals
+- Delivered a detailed technical report showcasing control strategies for **precision & reliability**
+
+---
+
 ## 🛠️ Skills & Tools
 
 **Hardware & Simulation:**
-- 🔧 Vivado (FPGA Design – PYNQ, FIR Filter)
-- 🔌 Arduino IDE (IoT & Robotics Projects)
-- ⚡ Proteus 8 (Circuit Simulation)
-- 📐 MATLAB & Simulink (System Modeling)
+- 🔧 Vivado (Xilinx FPGA)
+- 🔌 Arduino IDE
+- ⚡ Proteus 8
+- 📐 MATLAB & Simulink
 - 🧪 PCB Design, KiCad, NI Multisim
 
 **Programming:**
@@ -37,13 +51,13 @@ Welcome to my GitHub profile! I'm an aspiring **VLSI and Embedded Systems Engine
 
 ## 🚀 Projects
 
-- 🧠 **Mental Health Classifier** – Text classification using DistilBERT
-- 🎛️ **FIR Filter on PYNQ FPGA** – Real-time implementation via Vivado + Python
-- 📦 **Smart Delivery Box** – IoT system with OTP + WiFi alerts
-- 🎶 **Li-Fi Music System** – LED-based data transmission prototype
-- 🤖 **Line-Following Robot** – IR sensor-based autonomous vehicle
-- 🖼️ **Image Compression Tool** – GUI in MATLAB for file reduction
-- 🎮 **Wordle Game** – Terminal-based logic game in C
+- 🧠 **Mental Health Classifier** – NLP using DistilBERT
+- 🎛️ **FIR Filter on PYNQ FPGA** – Real-time signal processing
+- 📦 **Smart Delivery Box** – IoT system with secure access
+- 🎶 **Li-Fi Music System** – LED-based communication prototype
+- 🤖 **Line-Following Robot** – IR-sensor-based control
+- 🖼️ **Image Compression Tool** – MATLAB GUI
+- 🎮 **Wordle Game** – Console-based logic in C
 
 ---
 
@@ -53,29 +67,34 @@ Welcome to my GitHub profile! I'm an aspiring **VLSI and Embedded Systems Engine
 - ✅ **Python for Data Science** – *IBM (Cognitive Class)*
 - ✅ **MATLAB & Simulink Onramp** – *MathWorks*
 - ✅ **Programming in Python (DSA)** – *NPTEL (IIT Ropar)*
-- ✅ **PCB Design & Fabrication Workshop** – *Technotran Solutions*
+- ✅ **PCB Design Workshop** – *Technotran Solutions*
 - ✅ **Arduino & 3D Printing Workshop** – *VNRVJIET*
-- 🏅 Participated in **Hackathons**: Hack4Good, Circuit Crush, Tech Interview Challenge
+- 🏅 Hackathon Participation: Hack4Good, Circuit Crush
+
+---
+
+## 🎓 Activities
+
+- 🩸 **NSS Volunteer** – Community outreach, blood donation camps, and documentation
+- 📚 **Kaksya Sastra Club** – Member of a technical discussion and knowledge-sharing group
 
 ---
 
 ## 🎯 Career Goals
 
-I aim to become a **VLSI Engineer** working at the forefront of:
-- Digital & mixed-signal IC design
-- FPGA prototyping and embedded system integration
-- AI-assisted hardware verification & acceleration
-- Open-source hardware & RTL innovation
-
-I'm also interested in blending AI and hardware for intelligent edge devices and efficient system design.
+I aim to become a **VLSI Engineer**, specializing in:
+- Digital IC design and verification
+- FPGA-based systems
+- Embedded AI hardware
+- Low-power and efficient chip development
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 Email: [sreenijaakarapu54@gmail.com](mailto:sreenijaakarapu54@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/akarapu-sreenija](https://linkedin.com/in/akarapu-sreenija) *(active profile confirmed)*
-- 📍 Location: Hyderabad, India
+- 📧 [sreenijaakarapu54@gmail.com](mailto:sreenijaakarapu54@gmail.com)
+- 💼 [linkedin.com/in/akarapu-sreenija](https://linkedin.com/in/akarapu-sreenija)
+- 📍 Hyderabad, India
 
 ---
 
