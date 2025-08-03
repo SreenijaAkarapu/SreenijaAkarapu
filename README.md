@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I'm an aspiring **VLSI and Embedded Systems Engine
 - ✅ **Programming in Python (DSA)** – *NPTEL (IIT Ropar)*
 - ✅ **PCB Design Workshop** – *Technotran Solutions*
 - ✅ **Arduino & 3D Printing Workshop** – *VNRVJIET*
-- 🏅 Hackathon Participation: Hack4Good, Circuit Crush
+- 🏅 Hackathon Participation: Hack4Good, Circuit Crush , Walmart Sparkathon
 
 ---
 
